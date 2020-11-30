@@ -1,10 +1,10 @@
 # Sommerstudent case
 
-Velkommen til Gjensidige sitt sommer-case ☀
+Min oppgave til til Gjensidige sitt sommer-case ☀
 
 ## Oppgaven
 
-### Beskrivelse
+### Beskrivelse av oppgaven
 
 I denne oppgaven er målet å lage et Pokemon kort ved hjelp av API’et [pokeApi](https://pokeapi.co/).
 
@@ -22,7 +22,7 @@ Oppsummering av ønsket teknologi:
 - Bruk av fetch fra REST API’ene til [pokeApi](https://pokeapi.co/)
 - Bruk av funksjonelle komponenter
 
-Vi har tjuvstartet for deg, og du vil finne alt du trenger for å komme godt i gang i dette repoet.
+Gjensidige har tjuvstartet for meg, og du vil finne alt du trenger for å komme godt i gang i dette repoet.
 
 ### Hva finnes i dette repoet?
 
