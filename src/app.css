@@ -1,0 +1,56 @@
+.appRoot {
+  display: flex;
+  justify-content: center;
+}
+
+.infoContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  width: 400px;
+  text-align: center;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pokeContainer {
+  width: 500px;
+  background: linear-gradient(to bottom right, orange, lightyellow);
+  border-radius: 10px;
+  border: 20px solid #fffc3e;
+}
+
+.wrapper {
+  background: linear-gradient(to bottom right, green, lightblue);
+  border-radius: 10px;
+  text-transform: uppercase;
+  margin: 30px;
+}
+
+.pokemon_name {
+  margin: 0px;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+.alignLeft {
+  float: left;
+}
+
+.alignRight {
+  float: right;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(196, 193, 183);
+}
+
+.pokemonImg {
+  text-align: center;
+}
+
+.skills {
+  text-transform: capitalize;
+}
